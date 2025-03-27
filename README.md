@@ -1,1 +1,1 @@
-# -QR-Factorization-optimization
+# QR-Factorization-optimization
